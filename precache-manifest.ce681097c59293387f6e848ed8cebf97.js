@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fa709c4ad582e55ad0a1ab5ed1f805d",
+    "revision": "ce846ee6e29c94cae80c4c630b15af9f",
     "url": "/monochrome-media/index.html"
   },
   {
-    "revision": "8caa2eb0230ddc20dbeb",
+    "revision": "18b572c3e1df65db5823",
     "url": "/monochrome-media/static/css/main.04b4476b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monochrome-media/static/js/2.8238beb3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8caa2eb0230ddc20dbeb",
-    "url": "/monochrome-media/static/js/main.727593aa.chunk.js"
+    "revision": "18b572c3e1df65db5823",
+    "url": "/monochrome-media/static/js/main.8933b024.chunk.js"
   },
   {
     "revision": "e980eb9237f79be14207",
