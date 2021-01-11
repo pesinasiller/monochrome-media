@@ -48,7 +48,6 @@ const MainRouter = () => (
           component={() => <Work />}
         />
         <Route
-          exact
           path="/"
           render={() => <Home />}
         />
