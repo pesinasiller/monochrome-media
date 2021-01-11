@@ -1,0 +1,22 @@
+{
+  "menu" : {
+    "home": "INICIO",
+    "work": "TRABAJO",
+    "clients": "CLIENTES",
+    "about": "ACERCA DE",
+    "services": "SERVICIOS",
+    "contact": "CONTACTO"
+  },
+  "video" : {
+    "video" : "VIDEO"
+  },
+  "photo" : {
+    "photo" : "FOTOGRAFÍA"
+  },
+  "contact": {
+    "submit": "Enviar",
+    "phone": "cel",
+    "message-placeholder": "hola",
+    "name-placeholder": "nombre"
+  }
+}
