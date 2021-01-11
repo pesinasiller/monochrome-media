@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/monochrome-media/static/css/main.bef03479.chunk.css",
+    "main.css": "/monochrome-media/static/css/main.04b4476b.chunk.css",
     "main.js": "/monochrome-media/static/js/main.6847fecf.chunk.js",
     "main.js.map": "/monochrome-media/static/js/main.6847fecf.chunk.js.map",
     "runtime-main.js": "/monochrome-media/static/js/runtime-main.4a5e13d7.js",
@@ -8,9 +8,9 @@
     "static/js/2.8238beb3.chunk.js": "/monochrome-media/static/js/2.8238beb3.chunk.js",
     "static/js/2.8238beb3.chunk.js.map": "/monochrome-media/static/js/2.8238beb3.chunk.js.map",
     "index.html": "/monochrome-media/index.html",
-    "precache-manifest.faaa38b4765c2d557935cfa3d97807ee.js": "/monochrome-media/precache-manifest.faaa38b4765c2d557935cfa3d97807ee.js",
+    "precache-manifest.0105a84bd61e471caff5323717faec81.js": "/monochrome-media/precache-manifest.0105a84bd61e471caff5323717faec81.js",
     "service-worker.js": "/monochrome-media/service-worker.js",
-    "static/css/main.bef03479.chunk.css.map": "/monochrome-media/static/css/main.bef03479.chunk.css.map",
+    "static/css/main.04b4476b.chunk.css.map": "/monochrome-media/static/css/main.04b4476b.chunk.css.map",
     "static/js/2.8238beb3.chunk.js.LICENSE.txt": "/monochrome-media/static/js/2.8238beb3.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/monochrome-media/static/media/anson-regular-webfont.ce985ce3.svg",
     "static/media/logo-big.756d5578.svg": "/monochrome-media/static/media/logo-big.756d5578.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.4a5e13d7.js",
     "static/js/2.8238beb3.chunk.js",
-    "static/css/main.bef03479.chunk.css",
+    "static/css/main.04b4476b.chunk.css",
     "static/js/main.6847fecf.chunk.js"
   ]
 }
