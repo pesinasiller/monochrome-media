@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/monochrome-media/static/css/main.d9d275b6.chunk.css",
-    "main.js": "/monochrome-media/static/js/main.a88ca5af.chunk.js",
-    "main.js.map": "/monochrome-media/static/js/main.a88ca5af.chunk.js.map",
+    "main.css": "/monochrome-media/static/css/main.b082ad5f.chunk.css",
+    "main.js": "/monochrome-media/static/js/main.cecb0b75.chunk.js",
+    "main.js.map": "/monochrome-media/static/js/main.cecb0b75.chunk.js.map",
     "runtime-main.js": "/monochrome-media/static/js/runtime-main.4a5e13d7.js",
     "runtime-main.js.map": "/monochrome-media/static/js/runtime-main.4a5e13d7.js.map",
-    "static/js/2.fcfc33c8.chunk.js": "/monochrome-media/static/js/2.fcfc33c8.chunk.js",
-    "static/js/2.fcfc33c8.chunk.js.map": "/monochrome-media/static/js/2.fcfc33c8.chunk.js.map",
+    "static/js/2.a72b83da.chunk.js": "/monochrome-media/static/js/2.a72b83da.chunk.js",
+    "static/js/2.a72b83da.chunk.js.map": "/monochrome-media/static/js/2.a72b83da.chunk.js.map",
     "index.html": "/monochrome-media/index.html",
-    "precache-manifest.deac0c0236b5dae21e9d1d2d0bdb1ab4.js": "/monochrome-media/precache-manifest.deac0c0236b5dae21e9d1d2d0bdb1ab4.js",
+    "precache-manifest.9711502bc2ead6b3419f178167ad7aca.js": "/monochrome-media/precache-manifest.9711502bc2ead6b3419f178167ad7aca.js",
     "service-worker.js": "/monochrome-media/service-worker.js",
-    "static/css/main.d9d275b6.chunk.css.map": "/monochrome-media/static/css/main.d9d275b6.chunk.css.map",
-    "static/js/2.fcfc33c8.chunk.js.LICENSE.txt": "/monochrome-media/static/js/2.fcfc33c8.chunk.js.LICENSE.txt",
+    "static/css/main.b082ad5f.chunk.css.map": "/monochrome-media/static/css/main.b082ad5f.chunk.css.map",
+    "static/js/2.a72b83da.chunk.js.LICENSE.txt": "/monochrome-media/static/js/2.a72b83da.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/monochrome-media/static/media/anson-regular-webfont.ce985ce3.svg",
     "static/media/clientes-bg.png": "/monochrome-media/static/media/clientes-bg.3fccebb2.png",
     "static/media/logo-big.756d5578.svg": "/monochrome-media/static/media/logo-big.756d5578.svg",
     "static/media/logo-small.a3aa1796.svg": "/monochrome-media/static/media/logo-small.a3aa1796.svg",
+    "static/media/services.png": "/monochrome-media/static/media/services.7bc92427.png",
     "static/media/work-background.png": "/monochrome-media/static/media/work-background.e8d6ce00.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4a5e13d7.js",
-    "static/js/2.fcfc33c8.chunk.js",
-    "static/css/main.d9d275b6.chunk.css",
-    "static/js/main.a88ca5af.chunk.js"
+    "static/js/2.a72b83da.chunk.js",
+    "static/css/main.b082ad5f.chunk.css",
+    "static/js/main.cecb0b75.chunk.js"
   ]
 }
