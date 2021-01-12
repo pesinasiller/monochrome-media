@@ -1,13 +1,14 @@
 import React from 'react'
 import { withTranslation } from 'react-i18next'
 import Menu from '../components/Menu'
+import Background from '../img/clientes-bg.png'
 
 const Clients = (props) => {
   const { t } = props
   return (
     <>
       <Menu />
-      <div className="main-container clientsPage">
+      <div className="main-container clientsPage" style={{ backgroundImage: `url(${Background})` }}>
         <div className="side-bar">
           <span className="clientsPage__title">{t('menu:clients')}</span>
           <span>mazda</span>

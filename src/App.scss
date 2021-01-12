@@ -91,7 +91,7 @@ a {
 }
 
 .clientsPage {
-  background:  url(/img/clientes-bg.png) no-repeat;
+  background-repeat: no-repeat;
   background-position-x: right;
   background-position-y: bottom;
   &__title {
@@ -108,7 +108,7 @@ a {
 }
 
 .workPage {
-  background:  url(/img/work-background.png) no-repeat;
+  background-repeat: no-repeat;
   background-size: cover;
   background-position-x: 50%;
   .main-content {
